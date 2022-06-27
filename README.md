@@ -1,37 +1,20 @@
-#Hello
-
-You can use the [editor on GitHub](https://github.com/flightaura1/flightaura1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flightaura1/flightaura1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h1><u><strong>Flightaura: An Online Destination to Grab Best Flight Deals</strong></u></h1>
+<p><span style="font-family: 'Calibri Light', sans-serif;"><span style="font-size: large;">We at <a href="https://www.flightaura.com/flights/"><strong>Flightaura</strong></a> are known for providing the best flight deals at budget friendly and economical rates. We are a one step solution for all your airline needs. We focuses on making your journey happy for enjoyable. By booking your tickets with us, we will take care care of your complete journey. So, what are you waiting for? Get connected with us to grab the best deals on domestic and international flights. Hurry up to save big on new flights with flight aura.</span></span></p>
+<p align="justify"><span style="font-family: 'Calibri Light', sans-serif;"><span style="font-size: large;"><strong>Select Your Destination</strong></span></span></p>
+<ul>
+<li>
+<p align="justify"><span style="font-family: 'Calibri Light', sans-serif;"><span style="font-size: large;"><a href="https://www.flightaura.com/flights/flights-to-las-vegas/"><strong>Flights To Las Vegas</strong></a></span></span></p>
+</li>
+<li>
+<p align="justify"><span style="font-family: 'Calibri Light', sans-serif;"><span style="font-size: large;"><a href="https://www.flightaura.com/flights/flights-to-tampa/"><strong>Flights to Tampa</strong></a></span></span></p>
+</li>
+<li>
+<p align="justify"><span style="font-family: 'Calibri Light', sans-serif;"><span style="font-size: large;"><a href="https://www.flightaura.com/flights/flights-to-san-francisco/"><strong>Flights to San Francisco</strong></a></span></span></p>
+</li>
+<li>
+<p align="justify"><span style="font-family: 'Calibri Light', sans-serif;"><span style="font-size: large;"><strong><a href="https://www.flightaura.com/flights/flights-to-miami/">Flights to Miami</a></strong></span></span></p>
+</li>
+<li>
+<p align="justify"><span style="font-family: 'Calibri Light', sans-serif;"><span style="font-size: large;"><a href="https://www.flightaura.com/flights/flights-to-new-york-city/"><strong>Flights to New York City</strong></a></span></span></p>
+</li>
+</ul>
